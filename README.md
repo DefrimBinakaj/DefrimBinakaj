@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefrimBinakaj&layout=compact&theme=tokyonight&langs_count=8,555555,111111&border_color=1DA1F2&title_color=1DA1F2&text_color=a7a1ff"/>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefrimBinakaj&layout=compact&theme=tokyonight&langs_count=8,555555,111111&border_color=1DA1F2&title_color=1DA1F2&text_color=a7a1ff&hide_progress=true"/>
 </div>
 
 

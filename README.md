@@ -11,26 +11,27 @@
 </div>
 </a>
 
+<br>
+<br>
 
  
 <div>
      
-- 📫 Education: </br>
+📫 Education: </br>
      Software Engineering Co-op @ the University of Alberta </br>
 
-- 🔭 I’m currently working on: </br>
+🔭 I’m currently working on: </br>
      Learning as many programming languages as I can! </br>
 
-- 💬 Reach me at: </br>
+💬 Reach me at: </br>
      [LinkedIn](https://www.linkedin.com/in/defrim-binakaj-7124751b5/) | defrim@ualberta.ca </br>
 </div>
 
 <br>
 
-<div align="center">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefrimBinakaj&layout=compact&theme=tokyonight&langs_count=8,555555,111111&border_color=1DA1F2&title_color=1DA1F2&text_color=a7a1ff&hide_progress=true"/>
+<div padding=64px>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefrimBinakaj&layout=compact&theme=tokyonight&langs_count=8,555555,111111&border_color=1DA1F2&title_color=1DA1F2&text_color=a7a1ff&langs_count=10&hide_progress=true"/>
 </div>
-
 
 
 

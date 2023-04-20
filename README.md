@@ -21,7 +21,7 @@
      Software Engineering Co-op @ the University of Alberta </br>
 
 🔭 I’m currently working on: </br>
-     Starting projects </br>
+     Starting big projects 🧐 </br>
 
 💬 Reach me at: </br>
      [LinkedIn](https://www.linkedin.com/in/defrim-binakaj-7124751b5/) | defrim@ualberta.ca </br>

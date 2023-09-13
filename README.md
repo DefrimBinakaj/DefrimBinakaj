@@ -29,8 +29,8 @@
 
 <br>
 
-<div padding=64px>
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefrimBinakaj&layout=compact&theme=tokyonight&langs_count=8,555555,111111&border_color=1DA1F2&title_color=1DA1F2&text_color=a7a1ff&langs_count=10&hide_progress=true"/>
+<div padding=48px>
+ <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefrimBinakaj&layout=compact&theme=tokyonight&border_color=1DA1F2&title_color=1DA1F2&text_color=a7a1ff&langs_count=12&hide_progress=true"/>
 </div>
 
 
